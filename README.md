@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishu9219
 - 👀 I’m interested in coding, stocks
-- 🌱 I’m currently learning momentum stocks, data engineering
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning momentum stocks, distributed engineering
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me vishalsri92@gmail.com
 
 <!---
